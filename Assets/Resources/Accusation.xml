@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Accusations>
+  <Accusation characterId="0">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You must be the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Nevermind</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Nope</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="1">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You must be the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Nevermind</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>*Crying* I'm not!</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="2">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You must be the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Nevermind</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>...why would you think that? I'm not...</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="3">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>I think you're the Yandere behind all the accidents!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Not you.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>What? No. Baka!</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="4">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You're fake French accent can't hide the fact you're the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>I doubt it's you.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>No! I'm not! Comment pouvez-vous penser cela?</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="5">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You're too cool to not be the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Can't be you, you're too cool to care.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>...No...I'm just cool. Not a Yandere.</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Accusation>
+
+  <Accusation characterId="6">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You're a fraud! I know you're actually the Yandere!</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Not you, kings don't have time to be Yanderes.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Ha! Ha, ha, ha! Ha, ha, ha! You are mine!!! ALL MINE! No other guy here deserves you but me!</Text>
+      <FilePath>louis.y.a</FilePath>
+      <Text>I couldn't possibly let those boys get close to you! So I had to put a stop to them.</Text>
+      <FilePath>louis.y.b</FilePath>
+      <Text>And now that you know, I guess my game is over! Mark my words, I will find you and make you my Queen! Someday you will have to accept my love!</Text>
+      <FilePath>louis.y.c</FilePath>
+    </Response>
+  </Accusation>
+</Accusations>

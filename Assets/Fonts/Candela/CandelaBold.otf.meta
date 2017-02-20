@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d2c265c52bcbbf54ea4dd8c8a97ee218
+timeCreated: 1480346049
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Candela
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cdf6f256cb8608142826822721c401fc, type: 3}
+  - {fileID: 12800000, guid: 141fe709cbe296646a2cbc9ebd21ad16, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

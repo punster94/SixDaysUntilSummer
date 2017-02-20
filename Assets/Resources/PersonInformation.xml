@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersonInformations>
+  <PersonInformation characterId="0">
+    <Information>
+      <Statement lp="0"> 
+        <Text>I’m glad you’re here! What are the chances we are going to the same school after all this time? I can't wait to show you around!</Text>
+        <FilePath>sid.p.1.a</FilePath>
+        <Text>But isn’t it kind of strange you transferred to an all-boys academy six days before summer break?</Text>
+        <FilePath>sid.p.1.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>I wanted to have at least one friend when starting at a new school.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>I didn’t realize this was an all-boys school...</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Text>Some of us were thinking of going to the beach over summer break. I’m sure it would be way more fun with an actual girl along. </Text>
+        <FilePath>sid.p.2.a</FilePath>
+        <Text>You should try to get one of the guys to go with you, or try to get them all! The more the merrier!</Text>
+        <FilePath>sid.p.2.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Uhh...sure?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Shirtless guys on the beach? Sign me up!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+    
+    <Information>
+      <Statement lp="0">
+        <Text>Guys are here are so hot, and all have unique personalities that make them super attractive. So many choices for you to choose from!</Text>
+        <FilePath>sid.p.3.a</FilePath>
+        <Text>The boys here don’t know how to talk to girls, so you’ll have to be the one to ask them on dates...</Text>
+        <FilePath>sid.p.3.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Would it be weird if I dated multiple guys?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>But guys have cooties...</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+    
+    <Information>
+      <Statement lp="0">
+        <Text>Hopefully none of the guys are a yandere type. That’s the type of guy that will hurt their competition in order to get close to the girl they love.</Text>
+        <FilePath>sid.p.4.a</FilePath>
+        <Text>I better be careful since we are so close, I don’t want to be targeted!</Text>
+        <FilePath>sid.p.4.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Wait...Sid...is there or is there not a yandere?!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Seven guys in class, one has to be a yandere.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Text>Normally after you talk to three people school will be ending. That’s usually the time that I ask someone out on a date.</Text>
+        <FilePath>sid.p.6.a</FilePath>
+        <Text>I’m off to eat chicken fried rice...mmmm chicken fried rice.  See you tomorrow!</Text>
+        <FilePath>sid.p.6.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>See you tomorrow Sid!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Byeeeee!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>    
+  </PersonInformation>
+
+  <PersonInformation characterId="1">
+    <Information>
+      <Statement lp="0">
+        <Keyword>puppies</Keyword>
+        <Keyword></Keyword>
+        <Text>Awhhhhhh! You’re sooooooo Kawaii! The name’s Jerrick! </Text>
+        <FilePath>jerrick.p.1.a</FilePath>
+        <Text>As my new best friend you should know that I lovveeeee puppies because they’re soo Kawaiii!</Text>
+        <FilePath>jerrick.p.1.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>We will be BFFs for life!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>How old are you? Are you even allowed to be here?</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>vegetables</Keyword>
+        <Keyword>apples</Keyword>
+        <Text>Grossss... I hate vegetables! Maybe Alex will share his apples with me... if I ask nicely!</Text>
+        <FilePath>jerrrick.p.2.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword>apples</Keyword>
+        <Text>Yummy! I love apples!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword>vegetables</Keyword>
+        <Text>Eat your vegetables, they help you grow up strong!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+  </PersonInformation>
+
+  <PersonInformation characterId="2">
+    <Information>
+      <Statement lp="0">
+        <Keyword>draw</Keyword>
+        <Text>I’m...Alex. I like to draw...but I’m not very good...</Text>
+        <FilePath>alex.p.1.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword>apples</Keyword>
+        <Text>How old are the guys here? Like, seriously.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword>drawings</Keyword>
+        <Text>I would love to see your drawings sometime!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>sushi</Keyword>
+        <Keyword>Adnan</Keyword>
+        <Keyword>Charley</Keyword>
+        <Text>Adnan and Charley are getting sushi together and asked if anyone wanted to go... they’re so loud and always yelling at each other...</Text>
+        <FilePath>alex.p.2.a</FilePath>
+        <Text>Sushi isn’t really my thing anyway... But you should go.</Text>
+        <FilePath>alex.p2.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Something must be going on between Charley and Adnan.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>I'd rather stay and talk to you.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+  </PersonInformation>
+
+  <PersonInformation characterId="3">
+    <Information>
+      <Statement lp="0">
+        <Keyword>video games</Keyword>
+        <Keyword>Charley</Keyword>
+        <Text>I hate playing video games with Charley. He’s nice to everyone but me.</Text>
+        <FilePath>adnan.p.1.a</FilePath>
+        <Text>No one can even understand his stupid French accent anyway.</Text>
+        <FilePath>adnan.p.1.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>I think his French accent is sexy.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Git gud, scrub.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>cheese</Keyword>
+        <Keyword>Charley</Keyword>
+        <Text>Charley is such a scrublord. He should go back to France and eat his stupid cheese by himself...</Text>
+        <FilePath>adnan.p.2.a</FilePath>
+        <Text>Well..it...I...it's not like I would want to eat cheese with him or anything...</Text>
+        <FilePath>adnan.p.2.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Adnan and Charley sitting in a tree!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>What caused you to be so salty all the time?</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+   
+    <Information>
+      <Statement lp="0">
+        <Keyword>Swimming</Keyword>
+        <Keyword>Piano</Keyword>
+        <Keyword>Reading</Keyword>
+        <Text>What do you want? Ohhh you’re the new student. Not sure why they let you in.</Text>
+        <FilePath>adnan.p.3.a</FilePath>
+        <Text>I’m Adnan, and I’m the best at everything. Swimming. Piano. Reading. So don’t get in my way.</Text>
+        <FilePath>adnan.p.3.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Adnan. That’s a dumb name.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Boring. I think I'll talk to the cute French guy over there.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+  </PersonInformation>    
+
+  <PersonInformation characterId="4">
+    <Information>
+      <Statement lp="0">
+        <Keyword>photogenic</Keyword>
+        <Keyword>photo</Keyword>
+        <Keyword>Adnan</Keyword>
+        <Text>I am so photogenic, unlike Adnan. I mean have you seen his headshots? Horrible.</Text>
+        <FilePath>charley.p.2.a</FilePath>
+        <Text>Come, mon amour! Take a photo with me. Let us show the world our beautiful love for each other!</Text>
+        <FilePath>charley.p.2.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Sid wasn't lying when he said guys were bad at talking to girls here.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword>cheese</Keyword>
+        <Text>Say cheese!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+ 
+    <Information>
+      <Statement lp="0">
+        <Keyword>ping-pong</Keyword>
+        <Keyword>Adnan</Keyword>
+        <Text>Adnan always refuses to play shirtless ping-pong with me. </Text>
+        <FilePath>charley.p.1.a</FilePath>
+        <Text>That’s how French people play ping-pong, he should respect my culture.</Text>
+        <FilePath>charley.p.1.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Next time you play, let me know so I can watch.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Your culture is weird...</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+    
+    <Information>
+      <Statement lp="0">
+        <Keyword>sushi</Keyword>
+        <Keyword>cheese</Keyword>
+        <Keyword>chocolate</Keyword>
+        <Text>Oh, beautiful. Perfection. You must go on a date with me! My name? Charley, I’m French by the way. </Text>
+        <FilePath>charley.p.3.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Is it true French people are good kissers?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Stranger danger!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+    
+    <Information>
+      <Statement lp="0">
+        <Keyword>sushi</Keyword>
+        <Keyword>cheese</Keyword>
+        <Keyword>chocolate</Keyword>
+        <Text>You must be hungry! I know this perfect little sushi restaurant.</Text>
+        <FilePath>charley.p.3.b</FilePath>
+        <Text>And afterwards, we can go back to my place for dessert. I have some French cheese and chocolate you must taste.</Text>
+        <FilePath>charley.p.3.c</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>I have mace.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>I'm sorry I missed that, did you say you were French?</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+  </PersonInformation>
+
+  <PersonInformation characterId="5">
+    <Information>
+      <Statement lp="0">
+        <Keyword>Drawing</Keyword>
+        <Keyword>photography</Keyword>
+        <Text>Yunhao. Drawing and photography is my calling.</Text>
+        <FilePath>yunhaop.1.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>That was abrupt.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>...Hey.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>animals</Keyword>
+        <Keyword>Cats</Keyword>
+        <Text>Cats are evil. Don’t ask why...</Text>
+        <FilePath>yunhao.p.2.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Why?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Sure.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+  </PersonInformation>
+
+  <PersonInformation characterId="6">
+    <Information>
+      <Statement lp="0">
+        <Keyword>swim</Keyword>
+        <Keyword>read</Keyword>
+        <Text>As a king I must be a well-rounded to accommodate my subjects.</Text>
+        <FilePath>louis.p.1.a</FilePath>
+        <Text>I swim to stay fit and I read to keep my mind sharp. It is all part of my duties as king.</Text>
+        <FilePath>louis.p.1.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Seriously, what are you the king of?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>You are an inspiration for your subjects!</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>boy</Keyword>
+        <Text>No other boy here compares to me. They are all but lowly subjects, under my reign.</Text>
+        <FilePath>louis.p.2.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>So right you are, my King!</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Well, I have always wanted to date a ginger.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>piano</Keyword>
+        <Keyword>ping-pong</Keyword>
+        <Text>King Louis, my lady. What a pleasure to make your acquaintance.</Text>
+        <FilePath>louis.p.2.a</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>King of what?</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>My pleasure to meet such a dignified individual.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+
+    <Information>
+      <Statement lp="0">
+        <Keyword>piano</Keyword>
+        <Keyword>ping-pong</Keyword>
+        <Text>I enjoy many leisure activities such as piano and ping-pong. Please, feel free to talk to me anytime.</Text>
+        <FilePath>louis.p.2.b</FilePath>
+      </Statement>
+
+      <TopResponseStatement lp="5">
+        <Keyword></Keyword>
+        <Text>Maybe I can partake in converstaion with you sometime soon.</Text>
+        <FilePath></FilePath>
+      </TopResponseStatement>
+
+      <BottomResponseStatement lp="0">
+        <Keyword></Keyword>
+        <Text>Thanks, yeah. I'll keep that in mind.</Text>
+        <FilePath></FilePath>
+      </BottomResponseStatement>
+    </Information>
+    
+  </PersonInformation>
+</PersonInformations>

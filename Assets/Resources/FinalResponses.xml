@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FinalResponses>
+  <FinalResponse characterId="0">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Yeah!</Text>
+      <FilePath></FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Hey!</Text>
+      <FilePath></FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="1">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>*Giggling*</Text>
+      <FilePath>jerrick.r.g</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Ahhh...that’s not nice...</Text>
+      <FilePath>jerrrick.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="2">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Sounds good.</Text>
+      <FilePath>alex.r.g</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>...Ok.</Text>
+      <FilePath>alex.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="3">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Whatever.</Text>
+      <FilePath>adnan.r.g</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Baka!</Text>
+      <FilePath>adnan.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="4">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Mmm, oui. </Text>
+      <FilePath>charley.mmm</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Why are you resisting me?</Text>
+      <FilePath>charley.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="5">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>Hmm...</Text>
+      <FilePath>yunhao.r.g</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>*Something angry sounding in Chinese*</Text>
+      <FilePath>yunhao.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+
+  <FinalResponse characterId="6">
+    <PositiveResponse lp="0">
+      <Keyword></Keyword>
+      <Text>How admirable you are. </Text>
+      <FilePath>louis.r.a</FilePath>
+    </PositiveResponse>
+
+    <NegativeResponse lp="0">
+      <Keyword></Keyword>
+      <Text>My lady?</Text>
+      <FilePath>louis.r.b</FilePath>
+    </NegativeResponse>
+  </FinalResponse>
+</FinalResponses>

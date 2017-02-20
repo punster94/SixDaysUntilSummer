@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogs>
+  <Dialog characterId="0" accidentId="0">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text></Text>
+      <FilePath></FilePath>
+    </StartingStatement>
+
+    <TopOption lp="0">
+      <Keyword></Keyword>
+      <Text></Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="0">
+      <Keyword></Keyword>
+      <Text></Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text></Text>
+      <FilePath></FilePath>
+      <Text></Text>
+      <FilePath></FilePath>
+    </AccidentStatement>
+  
+  </Dialog>  
+  <Dialog characterId="1" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Hiii Gakusei-Chan!</Text>
+      <FilePath>jerrick.h.a</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Have you seen Sid?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>You are adorable! What do you like to do?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+    
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>I visited Sid at the nurse. He was still unconscious, so I let him borrow chubby bunny! I thought it would make him feel better, because my chubby bunny always make me feel better!</Text>
+      <FilePath>jerrick.a.0.a</FilePath>
+      <Text>When I came back to get chubby bunny, I heard him groan the words “Martin” and “Merge Sort”. What do you think that means?</Text>
+      <FilePath>jerrick.a.0.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="2" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>...Hi. </Text>
+      <FilePath>alex.h.a</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>I heard something happened at Ping-Pong yesterday.</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I want to know more about you!</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>I don’t play ping-pong, but I know Sid really loves it. I hope he gets better soon from his injury.</Text>
+      <FilePath></FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="3" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>What?</Text>
+      <FilePath>adnan.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Do you know anything about who hurt Sid?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Tell me something about you that I don't know.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>What kind of baka gets hit over the head with a ping pong paddle? Due to my superior knowledge I was able to find the ping-pong paddle used for the attack. Two letters were written on it.</Text>
+      <FilePath>adnan.a.0.a</FilePath>
+      <Text>Obviously the paddle didn’t belong to someone who draws, because I couldn’t make out the first letter... The second letter was H.</Text>
+      <FilePath>adnan.a.0.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="4" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Pardon my French, but your smile is most beautiful.</Text>
+      <FilePath>charley.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>What happened yesterday to Sid?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Tell me about yourself!</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Sid and I were playing a sweaty game of ping pong, shirts versus skins. I was skins. I went to get a drink and when I came back he was unconscious!</Text>
+      <FilePath>charley.a.0.a</FilePath>
+      <Text>Thankfully Louis was just outside the room. With Louis help, and my perfect French body, we were able to carry Sid to the nurse</Text>
+      <FilePath>charley.a.0.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="5" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>...</Text>
+      <FilePath>yunhao.h.a</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Where is Sid?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Okay...I want to know more about you.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Sid is gone... knocked unconscious by a ping-pong paddle.</Text>
+      <FilePath>yunhao.a.0.a</FilePath>
+      <Text>I’m not sure who did it... but it has to be someone who plays Ping-Pong.</Text>
+      <FilePath>yunhao.a.0.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="6" accidentId="1">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Good day, my fair lady.</Text>
+      <FilePath>louis.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Do you know anything about what happened to Sid?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Do me the honor of telling me more about yourself!</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Charley came and found me at my desk and we were luckily able to get an unconscious Sid to the nurse.</Text>
+      <FilePath></FilePath>
+      <Text>Although, I’m not sure why Charley was sweaty and didn’t have a shirt on.</Text>
+      <FilePath></FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="2" accidentId="2">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>...Hi.</Text>
+      <FilePath>alex.h.a</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Why isn’t Jerrick here?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I would love to know more about you.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Jerrick’s favorite stuffed animal was beheaded...I feel bad... Jerrick was so upset.</Text>
+      <FilePath>alex.a.1.a</FilePath>
+      <Text>I found some of his chubby bunny’s stuffing over by the programmers' desks. </Text>
+      <FilePath>alex.a.1.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="3" accidentId="2">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>What?</Text>
+      <FilePath>adnan.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Another accident happened?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Just tell me something about yourself.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>I don’t care what they say, I didn't hurt Jerrick's chubby bunny.</Text>
+      <FilePath></FilePath>
+      <Text>Do I think it's dumb he brings his stuffed animal to school? Yes. Would I hurt it? Of course not! I have a child of my own, I know how much they care about their stuffed animals.</Text>
+      <FilePath></FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="4" accidentId="2">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Pardon my French, but your smile is most beautiful.</Text>
+      <FilePath>charley.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>I heard someone hurt Jerrick's chubby bunny?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>French culture intrigues me, I want to know more about you.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Oh you mean Jerrick's stuffed animal. Someone was cruel and cut off it's head.</Text>
+      <FilePath>charley.a.1.a</FilePath>
+      <Text>Reminds me of France and King Louis the XVI.</Text>
+      <FilePath>charley.a.1.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="5" accidentId="2">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>...</Text>
+      <FilePath>yunhao.h.a</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Any hints about who hurt Jerrick's chubby bunny?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>Please tell me more about yourself.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>I’m not a young man anymore...</Text>
+      <FilePath>yunhao.a.1.a</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="6" accidentId="2">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Good day, my fair lady. </Text>
+      <FilePath>louis.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Why isn't Jerrick in school?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I would love to know more about you.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>What a shame about Jerrick. He was a faithful subject.</Text>
+      <FilePath>louis.a.1.a</FilePath>
+      <Text>When he found his chubby bunny headless, he was too emotionally scarred to come into school.</Text>
+      <FilePath>louis.a.1.b</FilePath>
+      <Text>Too bad about his stuffed animal. Looked like the work of a guillotine.</Text>
+      <FilePath>louis.a.1.c</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="3" accidentId="3">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>What?</Text>
+      <FilePath>adnan.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Who do you think put those objects in Louis’s locker?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>The objects that fell on Alex were art supplies, so it only makes sense that Yunhao was the one that did it.</Text>
+      <FilePath>adnan.a.2.a</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="4" accidentId="3">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Pardon my French, but your smile is most beautiful.</Text>
+      <FilePath>charley.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>What happened to Alex yesterday?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>It really is a tragedy what happened to Alex. All those art supplies falling from Louis locker onto him. </Text>
+      <FilePath>charley.a.2.a</FilePath>
+      <Text>I wish I could cry as readily as Louis, ladies totally dig the sensitive type.</Text>
+      <FilePath>charley.a.2.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="5" accidentId="3">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Hey…</Text>
+      <FilePath>yunhao.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>So another accident happened, this time to Alex?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>It’s unfortunate what happened to Alex. Adnan thinks it was me…</Text>
+      <FilePath>yunhao.a.2.a</FilePath>
+      <Text>My art tools went missing a few days ago… just after I finished my drawing of Louis.</Text>
+      <FilePath>yunhao.a.2.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="6" accidentId="3">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Good day, my fair lady. </Text>
+      <FilePath>louis.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>How did Alex get hurt from things falling out of your locker?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Poor Alex, he was an honorable subject. I asked him to acquire something from my locker for me, but someone filled my locker with art supplies!</Text>
+      <FilePath>louis.a.2.a</FilePath>
+      <Text> The supplies fell onto Alex cracking one of his ribs. I fear someone has it out for me. That trap was obviously meant for me!</Text>
+      <FilePath>louis.a.2.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="4" accidentId="4">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Pardon my French, but your smile is most beautiful.</Text>
+      <FilePath>charley.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Do you know anything about Adnan getting hurt?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I want to get to know you more.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Adnan was listening to rock music when he was electrocuted, how unromantic.</Text>
+      <FilePath>charley.a.3.a</FilePath>
+      <Text>Kind of strange though, Adnan never listens to rock, but Louis loves Rock music. </Text>
+      <FilePath>charley.a.3.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="5" accidentId="4">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Hey…</Text>
+      <FilePath>yunhao.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>What happened to Adnan?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I want to get to know you more.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>He was electrocuted. Maybe Louis know something... he was near Adnan’s desk just before it all happened.</Text>
+      <FilePath>yunhao.a.3.a</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="6" accidentId="4">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Good day, my fair lady. </Text>
+      <FilePath>louis.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>How was Adnan injured?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>I want to get to know you more.</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>He was electrocuted by computer wires. Looks like the wires were intentionally clipped. </Text>
+      <FilePath>louis.a.3.a</FilePath>
+      <Text>Only someone who has extensive audio knowledge would know how to clip those wires just right.</Text>
+      <FilePath>louis.a.3.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="5" accidentId="5">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Hey…</Text>
+      <FilePath>yunhao.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>How did Charley break his arm?</Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>He was playing Ping-Pong with Louis beforehand he slipped in the locker room and broke his arm.</Text>
+      <FilePath>yunhao.a.4.a</FilePath>
+      <Text>Why does everyone keep getting injured…should I be worried?</Text>
+      <FilePath>yunhao.a.4.b</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="6" accidentId="5">
+    <StartingStatement lp="0">
+      <Keyword></Keyword>
+      <Text>Good day, my fair lady. </Text>
+      <FilePath>louis.h.1</FilePath>
+    </StartingStatement>
+
+    <TopOption lp="5">
+      <Keyword></Keyword>
+      <Text>Was Charley pushed while showering? </Text>
+      <FilePath></FilePath>
+    </TopOption>
+
+    <BottomOption lp="10">
+      <Keyword></Keyword>
+      <Text>How are you doing?</Text>
+      <FilePath></FilePath>
+    </BottomOption>
+
+    <AccidentStatement lp="0">
+      <Keyword></Keyword>
+      <Text>How unhygienic to be showering in a public locker room. There was soap all over the floor, its completely possible he slipped on his own. </Text>
+      <FilePath>louis.a.4.a</FilePath>
+    </AccidentStatement>
+  </Dialog>  
+</Dialogs>

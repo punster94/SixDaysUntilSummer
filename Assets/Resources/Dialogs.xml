@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogs>
+  <Dialog characterId="0" accidentId="0">
+    <StartingStatement>
+      <Text>I CAnt belve that the thing HaPPEned last night!</Text>
+      <FilePath>MenuSound</FilePath>
+    </StartingStatement>
+    
+    <AccidentStatement>
+      <Text>Oh, yeah. I was at the place but I remember blank person saying that they were gonna do the thing.</Text>
+      <FilePath>MenuSound</FilePath>
+    </AccidentStatement>
+  </Dialog>
+  
+  <Dialog characterId="1" accidentId="0">
+    <StartingStatement>
+      <Text>I am a different person than character 0!</Text>
+      <FilePath>MenuSound</FilePath>
+    </StartingStatement>
+    
+    <AccidentStatement>
+      <Text>I went to do the thing last night tho.</Text>
+      <FilePath>MenuSound</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="0" accidentId="1">
+    <StartingStatement>
+      <Text>Hello this is a greeting that I may say, as character 0.</Text>
+      <FilePath>MenuSound</FilePath>
+    </StartingStatement>
+
+    <AccidentStatement>
+      <Text>The accident? I guess I didn't know about that thing.</Text>
+      <FilePath>MenuSound</FilePath>
+    </AccidentStatement>
+  </Dialog>
+
+  <Dialog characterId="1" accidentId="1">
+    <StartingStatement>
+      <Text>Great googly moogly my firendo.</Text>
+      <FilePath>MenuSound</FilePath>
+    </StartingStatement>
+
+    <AccidentStatement>
+      <Text>I saw the whole thing go down yo, he got totally beaned.</Text>
+      <FilePath>MenuSound</FilePath>
+    </AccidentStatement>
+  </Dialog>
+</Dialogs>

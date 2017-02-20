@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dates>
+  <Date characterId="0">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>I know we're friends and all, but would you go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Nevermind....</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Sure, but just for practice!</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Date>
+  
+  <Date characterId="1">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>Adorable! Will you go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Nevermind...</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Yesss! We can eat cake and have a tea party with chubby bunny!</Text>
+      <FilePath></FilePath>
+    </Response>
+  </Date>
+
+  <Date characterId="2">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>Shy and cute! Would you go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Umm....nevermind...</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>On a date...with me? Ok... but I’m not sure what we would talk about...</Text>
+      <FilePath>alex.d</FilePath>
+    </Response>
+  </Date>
+
+  <Date characterId="3">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>You're a jerk, but I like it. Want to go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Ugh...nevermind!</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Fine. But you’re paying.</Text>
+      <FilePath>adnan.d</FilePath>
+    </Response>
+  </Date>
+
+  <Date characterId="4">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>So French! Will you go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Mmm...nevermind.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Adnan didn’t believe me, but my French charm finally worked!</Text>
+      <FilePath>charley.d</FilePath>
+    </Response>
+  </Date>
+
+  <Date characterId="5">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>Sooo cool...will you go on a date with me?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Ahh..nevermind...</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>7:30, bring an apple...</Text>
+      <FilePath>yunhao.d</FilePath>
+    </Response>
+  </Date>
+
+  <Date characterId="6">
+    <Yes lp="0">
+      <Keyword></Keyword>
+      <Text>My King, will you honor me with a date?</Text>
+      <FilePath></FilePath>
+    </Yes>
+
+    <No lp="0">
+      <Keyword></Keyword>
+      <Text>Yeah...nevermind.</Text>
+      <FilePath></FilePath>
+    </No>
+
+    <Response>
+      <Keyword></Keyword>
+      <Text>Of course. You shall be my queen, and I, your only king.</Text>
+      <FilePath>louis.d</FilePath>
+    </Response>
+  </Date>
+</Dates>
